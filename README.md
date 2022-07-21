@@ -7,7 +7,9 @@
 **style.css** : Incluye el CSS que se aplica al archivo test.html generado.
 
 **eventos_classic.json** : Ejemplo de transacciones de un cliente classic para procesar.
+
 **eventos_gold.json** : Ejemplo de transacciones de un cliente gold para procesar.
+
 **eventos_black.json** : Ejemplo de transacciones de un cliente black para procesar.
 
 # Imágenes de muestra:
